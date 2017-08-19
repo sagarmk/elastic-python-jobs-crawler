@@ -9,3 +9,5 @@
 	- Index collected json using elastic node
 	- Connect to different nodes
 	- Run elastic search queries  
+	
+<blockquote>Requirements: elasticsearch , beautifulsoup</blockquote>
