@@ -2,12 +2,12 @@
 ---
 
 - Web scraping
-	- Build indeed web scraper
+	- Built indeed web scraper
 	- Collect data in json format
 
 - Elastic search
-	- Index collected json using elastic node
-	- Connect to different nodes
-	- Run elastic search queries  
+	- Indexed collected json using elastic node
+	- Connected to different nodes sharing the same node name
+	- Ran elastic search queries  
 	
 <blockquote>Requirements: elasticsearch , beautifulsoup</blockquote>
